@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "response": {
+        "id": 5,
+        "user_id": 13,
+        "business_id": 4,
+        "event_category_id": 1,
+        "name": "SOS TUESDAYS: Street of Salsa With Delhi Salsa Club",
+        "keywords": "Dance",
+        "slug": "sos-tuesdays-street-of-salsa-with-delhi-salsa-club-5",
+        "event_log_id": "EVE0005",
+        "description": "SoS Tuesday's. : street Of Salsa\r\nWelcome you all to a very authentic & a pure\r\nSALSA nite dedicated to all the Salsa lovers of Delhi and the ones travelling into.\r\nDelhi Salsa Club\r\nbrings forth\r\nSoS : Street of Salsa , Tuesday\r\n@\r\nThe Junction\r\nAs the name suggests it'll be a night filled with Salsa Music from the oldest recorded Salsa scores to the latest one's, from the legends to the most danced songs it'll all be boxed into this one night, we will make you all travel to the core of Salsa Music which will not let you off the floor.\r\nThe place I bet you cannot not fall in love with The Junction in its first sight, the floor is silk, the ambiance will excite you, and the music will not let you stop...\r\nfor SoS nite , It'll be known as\r\nThe Salsa Junction",
+        "organizer_name": "Axovel Soft Pvt. Ltd.",
+        "start_date_time": "2017-08-20 12:40:00",
+        "end_date_time": "2017-08-24 12:40:00",
+        "banner": "0bacdd50a3666b99a28b5e7a163d361a.jpg",
+        "address": "HuszKhas,The Junction, New Delhi, Delhi, India",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "pin_code": 110016,
+        "latitude": "28.554327",
+        "longitude": "77.206060",
+        "total_seats": 300,
+        "is_blocked": 0,
+        "created_at": "2017-08-21 07:13:24",
+        "updated_at": "2017-08-21 07:13:24",
+        "deleted_at": null,
+        "total_seats_buyed": 18,
+        "total_seats_left": 282,
+        "seating_plans": [
+                          {
+                          "seating_plan_title": "Platinum",
+                          "seating_plan_seats": 100
+                          },
+                          {
+                          "seating_plan_title": "Gold",
+                          "seating_plan_seats": 100
+                          },
+                          {
+                          "seating_plan_title": "Silver",
+                          "seating_plan_seats": 100
+                          }
+                          ],
+        "user_ckecked_in": 15,
+        "user_left": 3
+    }
+}
